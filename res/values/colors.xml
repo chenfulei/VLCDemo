@@ -1,0 +1,23 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+	<color name="red">#FF0000</color> <!-- 红色 -->
+	<color name="write">#FFFFFF</color> <!-- 白色 -->
+	<color name="gainsboro">#9B9B9B</color> <!-- 深灰色 -->
+	<color name="gray">#CCCCCC</color> <!-- 灰色 -->
+	<color name="black">#000000</color> <!-- 黑色 -->
+	<color name="dialog_unpressed">#EEEEEE</color>
+	<color name="dialog_pressed">#E6E6E6</color>
+	<color name="transparent">#00000000</color> <!-- 透明 -->
+	<color name="reseda">#c0d33a</color> <!-- 浅绿色 -->
+	<color name="dark_grey">#393939</color> <!-- 深灰色 -->
+	<color name="blue">#59c1fe</color> <!-- 深灰色 -->
+	
+	<color name="kids_person_txt">#59c1fe</color> <!-- 蓝色 -->
+	<color name="kids_person_txt1">#91aab9</color> <!-- 浅灰-->
+	<color name="kids_pint">#f0267c</color><!-- 粉红色 -->
+	
+	 <color name="ldrawer_color">#FFFFFF</color>
+	 <color name="actionbar_color">#bf360c</color>
+    <color name="drawer_arrow_second_color">#303f9f</color>
+</resources>
